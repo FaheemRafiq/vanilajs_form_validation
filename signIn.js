@@ -9,7 +9,7 @@ document.querySelector('#app').innerHTML = `
     </div>
   
     <form action="https://www.google.com/signin" method="post">
-        <h2>Login Form</h2>
+        <h2>Sign In</h2>
 
         <div class="data">
               <label id="email_label" for="email"><b>Email Or Username</b></label>
